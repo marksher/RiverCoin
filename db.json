@@ -6,6 +6,13 @@
       "external_url": "https://github.com/marksher/RiverCoin/",
       "image": "https://github.com/marksher/RiverCoin/blob/main/rivercoin.png?raw=true",
       "name": "6500river0"
+    },
+    {
+      "id": 1,
+      "description": "RiverCoin1",
+      "external_url": "https://github.com/marksher/RiverCoin/",
+      "image": "https://github.com/marksher/RiverCoin/blob/main/rivercoin2.png?raw=true",
+      "name": "6500river1"
     }
   ]
 }
