@@ -1,0 +1,2 @@
+# RiverCoin
+River Coin
