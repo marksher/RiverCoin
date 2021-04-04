@@ -2,17 +2,31 @@
   [
     {
       "id": 0,
-      "description": "RiverCoin0",
+      "description": "RiverCoin",
       "external_url": "https://github.com/marksher/RiverCoin/",
       "image": "https://github.com/marksher/RiverCoin/blob/main/image/rivercoin.png?raw=true",
       "name": "6500river0"
     },
     {
       "id": 1,
-      "description": "RiverCoin1",
+      "description": "MarkCoin",
       "external_url": "https://github.com/marksher/RiverCoin/",
       "image": "https://github.com/marksher/RiverCoin/blob/main/image/rivercoin2.png?raw=true",
       "name": "6500river1"
+    },
+    {
+      "id": 2,
+      "description": "CodeCoin",
+      "external_url": "https://github.com/marksher/RiverCoin/",
+      "image": "https://github.com/marksher/RiverCoin/blob/main/image/rivercoin3.png?raw=true",
+      "name": "6500river2"
+    },
+    {
+      "id": 1,
+      "description": "NoneCoin",
+      "external_url": "https://github.com/marksher/RiverCoin/",
+      "image": "https://github.com/marksher/RiverCoin/blob/main/image/rivercoin4.png?raw=true",
+      "name": "6500river3"
     }
   ]
 }
