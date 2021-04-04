@@ -1,7 +1,11 @@
 ### rivercoin
 
 **tutorial** https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-remix/6358
+
 **erc721** https://docs.openzeppelin.com/contracts/2.x/api/token/erc721
+
+-------------------------
+
 **ACCOUNTS**
 
 1. 0x197a3b2D22896C1263E97237F2B2A090847a8357
