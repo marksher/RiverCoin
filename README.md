@@ -6,9 +6,9 @@ RiverCoin
 
 // 2 0x48a5a9C334ed3933305D29C2E1606d47a5789920
 
-// https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-remix/6358
+// Tutorial: https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-remix/6358
 
-// https://my-json-server.typicode.com/marksher/RiverCoin/tokens
+// Database: https://my-json-server.typicode.com/marksher/RiverCoin/tokens from: https://github.com/marksher/RiverCoin/blob/main/db.json
 
 // Deploy: ERC721PresetMinterPauserAutoId("RiverCoin","RCN","https://my-json-server.typicode.com/marksher/RiverCoin/tokens/")
 
