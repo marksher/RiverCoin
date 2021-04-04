@@ -4,14 +4,14 @@
       "id": 0,
       "description": "RiverCoin0",
       "external_url": "https://github.com/marksher/RiverCoin/",
-      "image": "https://github.com/marksher/RiverCoin/blob/main/rivercoin.png?raw=true",
+      "image": "https://github.com/marksher/RiverCoin/blob/main/image/rivercoin.png?raw=true",
       "name": "6500river0"
     },
     {
       "id": 1,
       "description": "RiverCoin1",
       "external_url": "https://github.com/marksher/RiverCoin/",
-      "image": "https://github.com/marksher/RiverCoin/blob/main/rivercoin2.png?raw=true",
+      "image": "https://github.com/marksher/RiverCoin/blob/main/image/rivercoin2.png?raw=true",
       "name": "6500river1"
     }
   ]
